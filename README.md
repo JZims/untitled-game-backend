@@ -1,2 +1,2 @@
 # README
-Untitled game Backend
+Rails backend for an untitled Game project
